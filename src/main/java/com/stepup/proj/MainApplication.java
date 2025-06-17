@@ -7,8 +7,6 @@ public class MainApplication {
         System.out.println("1001");
         System.out.println("---");
         System.out.println("---");
-        System.out.println("---");
-        System.out.println("---");
 
             }
 

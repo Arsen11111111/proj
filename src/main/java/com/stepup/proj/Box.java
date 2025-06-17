@@ -18,7 +18,5 @@ public class Box {
     public Box() {
     }
 
-    public Box(int size) {
-        this.size = size;
+
     }
-}
